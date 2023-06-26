@@ -152,7 +152,7 @@ footer p {
 
 /* -------  General Styles ------- */
 
-@media all and (min-width: 800px) {
+@media all and (min-width: 480px) {
   header {
     display: flex;
     flex-direction: row;
